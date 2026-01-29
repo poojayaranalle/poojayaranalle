@@ -21,10 +21,10 @@ I am a motivated Full Stack and Backend Developer with a strong foundation in Ja
 **Full Stack & Backend Intern – JSpiders, Bengaluru**  
 Gained hands-on experience in building backend services and full stack web applications. Worked on database-driven systems, REST-style backend logic, and responsive frontend interfaces. Strengthened skills in application architecture, debugging, and real-world software development practices.
 
-📂 Featured Projects  
+📂 Featured Projects 
+- **Smart Ration Distribution System** – IoT-based system using RFID and microcontroller integration for automated distribution  
 - **Puma-Inspired E-Commerce Website** – Responsive UI, product pages, and interactive components using HTML, CSS, and JavaScript  
 - **Student Management System** – Web app with backend logic and validations to manage student data efficiently  
-- **Smart Ration Distribution System** – IoT-based system using RFID and microcontroller integration for automated distribution  
 
 📫 Let’s Connect  
 - Email: poojakouthab@gmail.com  
