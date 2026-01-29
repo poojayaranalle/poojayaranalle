@@ -28,7 +28,7 @@ Gained hands-on experience in building backend services and full stack web appli
 
 📫 Let’s Connect  
 - Email: poojakouthab@gmail.com  
-- GitHub: https://github.com/poojakouthab  
+- GitHub: https://github.com/poojayaranalle  
 - LinkedIn:www.linkedin.com/in/yaranallepooja
 
 ✨ Focused on building reliable backend systems and full stack applications that solve real-world problems.
